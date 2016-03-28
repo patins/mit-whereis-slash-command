@@ -1,0 +1,12 @@
+{
+  "name": "mit-whereis-slash-command",
+  "version": "0.0.1",
+  "description": "mit whereis for mixmax",
+  "repository": "https://github.com/patins/mit-whereis-slash-command",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patrick Insinger <insinger@mit.edu>",
+  "license": "GPL-3.0"
+}
